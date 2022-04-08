@@ -1,5 +1,11 @@
-Repositorio novo !
+vamos lá :
 
-alteração nos cod !
+Git status para entender o que esta ocorrendo :
 
-teste 123
+Git branch "...." para mudar o branch {ex : main para versao0}
+
+Git add . " adcionar os trem " ;
+
+git commit - m "nome" (salvar alguma alteração no sistema)
+
+git push origin " versao0..." (para subir a versão para o Git)
